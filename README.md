@@ -41,8 +41,7 @@ Dashboard available at `http://localhost:8050`.
 
 ## Author
 
-**Dhulakshan Kannan**
+**Diviyan Periyasamy**
 BSc (Hons) Data Science, Coventry University | NIBM
-[LinkedIn](https://www.linkedin.com/in/dhulakshan-kannan-a9b874224) · [GitHub](https://github.com/DhulakshanKannan)
 
 > Developed as part of academic coursework.
